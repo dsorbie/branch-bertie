@@ -1,0 +1,28 @@
+* {
+	background-size: cover;
+	background-position: center;
+}
+
+html, body, section {
+height: 100%;
+}
+
+h1, h2 {
+	font-family: 'PT Sans', sans-serif;
+}
+h1 {
+	margin: 150px;
+	padding: 50px;
+	font-size: 65px;
+	position: absolute;
+    
+}
+
+#mainpage {
+	background-image: url(images/bg-top.jpg);"
+	color: white;
+}
+#lastpage {
+	background-image: url(images/bg-btm.jpg);
+	color: black;
+}
